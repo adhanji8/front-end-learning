@@ -34,6 +34,7 @@ This is a list of resources that have helped me learn web development over the y
 * [Mozilla Developer Network - A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [ES Modules: A cartoon deep dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) by [Lin Clark](https://code-cartoons.com/).
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
+* [The Modern Javascript Tutorial](https://javascript.info/) - Learn Modern Javascript
 
 ## Accessibility (a11y)
 * [Mozilla Developer Network - Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
